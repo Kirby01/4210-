@@ -1,2 +1,2 @@
 # 4210-
-Compressor
+Compressor. Note only working in Audacity till bugs sorted out.
