@@ -1,4 +1,4 @@
 # 4210-
 
 Compressor Plugin <br>
-<image src="https://github.com/Kirby01/4210-/blob/3d2a443451cd62c6541a8f13c46d72f7835cbc7e/Untitled%20design%20(1).png">
+<image src="https://github.com/Kirby01/4210-/blob/4a4e44a181a41d242755ef52b8a4f5ec5377703a/4210.jpg">
